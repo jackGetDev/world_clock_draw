@@ -205,7 +205,7 @@ class ClockPainter extends CustomPainter {
 
     canvas.drawLine(centerPoint, hourHandEnd, hourHandBrush);
 
-    // Menit
+    // Minute
     final minuteHandX =
         centerX + radius * 0.6 * cos((now.minute * 6 - 90) * pi / 180);
     final minuteHandY =
