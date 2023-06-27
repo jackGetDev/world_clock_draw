@@ -35,7 +35,7 @@ class _WorldClockPageState extends State<WorldClockPage> {
     WorldClock(location: 'Rome', timezone: '+2', flag: '🇮🇹'),
     WorldClock(location: 'Dubai', timezone: '+4', flag: '🇦🇪'),
     WorldClock(location: 'Istanbul', timezone: '+3', flag: '🇹🇷'),
-    WorldClock(location: 'Jakarta', timezone: '+3', flag: '🇮d'),
+    WorldClock(location: 'Jakarta', timezone: '+7', flag: '🇮d'),
   ];
 
   @override
